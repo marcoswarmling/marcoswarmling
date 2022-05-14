@@ -1,6 +1,6 @@
 ###  olá 👋
 ## Meu nome é Marcos Warmling
-- Eu moro no brasil :brazil:, em Santa Catarina 🏖️ :
+- Eu moro no Brasil :brazil:, em Santa Catarina 🏖️ :
 - Meu hobby é jogar 🎮 
 
 ## Linkedin:
