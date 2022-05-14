@@ -1,7 +1,6 @@
 ###  olá 👋
 ## Meu nome é Marcos Warmling
 - Eu moro no brasil :brazil:, em Santa Catarina 🏖️ :
-- Atualmente eu estudo desenvolvimento WEB na TRYBE :computer:
 - Meu hobby é jogar 🎮 
 
 ## Linkedin:
