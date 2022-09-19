@@ -18,7 +18,7 @@
 <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="nodeJs" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressJs" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://symbols.getvecta.com/stencil_95/67_sequelize-icon.54c1e009e5.svg" alt="Sequelize" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://pics.freeicons.io/uploads/icons/png/17839680241551942828-512.png" alt="Sequelize" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://img.icons8.com/color/344/python--v1.png" alt="Python" width="40" height="40" style="max-width:100%;"></img>
 
